@@ -1,0 +1,30 @@
+body{
+    background-image: url(diego-passadori-e6frrz-kh-0-unsplash.jpg);
+}
+.container{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 40px;
+    border: 0.2px solid #fff;
+    border-radius: 2px;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.9);
+
+}
+.container > h2{
+    font-size: 30px;
+    color: #fff;
+}
+.container > h1{
+    font-size: 100px;
+    margin-top: 20px;
+}
+button{
+    background-color: darkblue;
+    color: #fff;
+    border: none;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
